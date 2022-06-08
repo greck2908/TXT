@@ -1,0 +1,17 @@
+1 Software testing theory
+2 HTTP server request methods
+3 HTTp server response codes
+4 Client-server architecture
+5 Structures of HTTP requests and responses
+6 JSON, XML
+7 API testing via Postman JS autotest
+8 Removing and reading logs from an external server
+9 DevTools of web brausers Google Chrome, Firefox
+10 Sniffing http web traffic through Charles and Fiddler
+11 VPN. How it works
+12 Mobile testing
+13 Build Android applications on Android devices
+14 ADB management of Android devices
+15 Command line (terminal, bash, powershell)
+16 Basics of SQL 
+17 Load testing JMeter
