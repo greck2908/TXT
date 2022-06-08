@@ -1,0 +1,5 @@
+First name: Anatoly
+Last name: Greck
+Age: 31
+Pets: 1 dog Rich
+Desired salary: 950$
